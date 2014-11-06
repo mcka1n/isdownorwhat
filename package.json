@@ -5,6 +5,7 @@
   "description": "Node.js Ping kind of app on CentOS using docker",
   "author": "Edwin Maldonado <mckain.default@gmail.com>",
   "dependencies": {
-    "express": "3.2.4"
+    "express": "3.2.4",
+    "grunt": "0.4.5"
   }
 }
